@@ -1,0 +1,9 @@
+CourseCode,CourseName,Credits,Department,InstructorID,Semester,MaxEnrollment
+CS101,Introduction to Programming,4,Computer Science,I001,FALL,30
+MATH201,Calculus II,3,Mathematics,I002,FALL,25
+PHY101,General Physics I,4,Physics,I003,FALL,35
+ENG201,Engineering Mechanics,3,Engineering,I004,FALL,20
+CHEM101,General Chemistry,4,Chemistry,I005,FALL,40
+BIO101,Introduction to Biology,3,Biology,I006,FALL,30
+CS202,Data Structures,3,Computer Science,I001,SPRING,25
+MATH301,Linear Algebra,3,Mathematics,I002,SPRING,20

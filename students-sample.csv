@@ -1,0 +1,7 @@
+StudentID,FirstName,LastName,Email,DateOfBirth,EnrollmentDate,Major,GPA
+S001,John,Smith,john.smith@university.edu,1995-05-15,2023-08-15,Computer Science,3.85
+S002,Sarah,Johnson,sarah.j@university.edu,1996-03-22,2023-08-15,Mathematics,3.92
+S003,Michael,Brown,m.brown@university.edu,1995-11-08,2023-08-15,Physics,3.67
+S004,Emily,Davis,emily.davis@university.edu,1997-01-12,2023-08-15,Engineering,3.78
+S005,David,Wilson,d.wilson@university.edu,1996-07-30,2023-08-15,Chemistry,3.54
+S006,Lisa,Anderson,lisa.a@university.edu,1995-09-18,2023-08-15,Biology,3.81

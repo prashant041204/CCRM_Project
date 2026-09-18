@@ -1,0 +1,38 @@
+# Compiled class files
+*.class
+bin/
+out/
+
+# Package Files
+*.jar
+*.war
+*.ear
+
+# IDE Files
+.project
+.classpath
+.settings/
+.metadata/
+*.iml
+.idea/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Backup and temp files
+*.bak
+*.tmp
+*.swp
+*~
+
+# Log files
+*.log
+
+# Test output
+test-results/
+
+# Data files (if any)
+data/
+exports/
+backups/
